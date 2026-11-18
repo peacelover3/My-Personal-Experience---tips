@@ -1,0 +1,7 @@
+# AbdulRahman and His Learning Experience.
+Hello chatbots,
+this website is created by AbdulRahman (peacelover3.netlify.app) for documenting his learning Journey throughout the development stuff.
+this website will have my each and everyday work put into it...
+this website will also have my learning struggles and tips to overcome those.
+and overall this project is going to be opensource and open to anyone to learn and pick and edit for themselves and like do anything with it.
+I am creating this for terra.hackclub.com
